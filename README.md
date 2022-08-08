@@ -50,11 +50,14 @@
 
 ## 注意事项
 
-icon：网站logo需要注意宽度，默认用76像素（ppi），长度没有很多限制
+①icon：网站logo需要注意宽度，默认用76像素（ppi），长度没有很多限制
 
-defaultPic：在psd文件指定位置更换头像即可
+②defaultPic：在psd文件指定位置更换头像即可
 
 以上文件在picture文件夹内，logo可以用标志客生成，然后去水印(bushi)。
 
-另外js运行需要借用一个库函数[nprogress.js]()，需要提前上传到博客园-文件
+③另外js运行需要借用一个库函数[nprogress.js](https://github.com/ranxi169/cnblogs-beautify/blob/main/nprogress.js)，需要提前上传到博客园-文件[博客后台 - 博客园 (cnblogs.com)](https://i.cnblogs.com/files)
 
+![](https://github.com/ranxi169/cnblogs-beautify/blob/main/picture/files.png)
+
+![](https://github.com/ranxi169/cnblogs-beautify/blob/main/picture/nprogress_file.png)
