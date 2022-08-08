@@ -8,11 +8,11 @@
 
 4. 在博客皮肤选项卡中将博客皮肤设置为： [BlueSky](http://www.cnblogs.com/SkinUser.aspx?SkinName=BlueSky)
 
-5. 将 [页面定制.css](https://github.com/Summertime-Wu/make_cnblogs_better/blob/master/%E9%A1%B5%E9%9D%A2%E5%AE%9A%E5%88%B6.css) 复制到 `页面定制CSS代码` 代码框内
+5. 将[页面定制.css ](https://github.com/ranxi169/cnblogs-beautify/blob/main/页面定制.css) 复制到 `页面定制CSS代码` 代码框内
 
-6. 将 [页首.html](https://github.com/Summertime-Wu/make_cnblogs_better/blob/master/%E9%A1%B5%E9%A6%96.html) 复制到 `页首Html代码` 代码框内
+6. 将[页首.html](https://github.com/ranxi169/cnblogs-beautify/blob/main/页首.html) 复制到 `页首Html代码` 代码框内
 
-7. 将 [页尾.html](https://github.com/Summertime-Wu/make_cnblogs_better/blob/master/%E9%A1%B5%E5%B0%BE.html) 复制到 `页脚Html代码` 代码框内
+7. 将[页尾.html](https://github.com/ranxi169/cnblogs-beautify/blob/main/页尾.html)  复制到 `页脚Html代码` 代码框内
 
 8. 根据自身情况修改`页尾.html`中的`js`
 
@@ -48,10 +48,13 @@
 
 ------------------------>>> [孤飞 - 博客园 (cnblogs.com)](https://www.cnblogs.com/ranxi169/)
 
-## PS事项
+## 注意事项
 
 icon：网站logo需要注意宽度，默认用76像素（ppi），长度没有很多限制
 
 defaultPic：在psd文件指定位置更换头像即可
 
 以上文件在picture文件夹内，logo可以用标志客生成，然后去水印(bushi)。
+
+另外js运行需要借用一个库函数[nprogress.js]()，需要提前上传到博客园-文件
+
