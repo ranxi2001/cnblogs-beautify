@@ -8,7 +8,7 @@
 
 4. 在博客皮肤选项卡中将博客皮肤设置为： [BlueSky](http://www.cnblogs.com/SkinUser.aspx?SkinName=BlueSky)
 
-5. 将[页面定制.css ](https://github.com/ranxi169/cnblogs-beautify/blob/main/页面定制.css) 复制到 `页面定制CSS代码` 代码框内
+5. 将[页面定制.css ](https://github.com/ranxi169/cnblogs-beautify/blob/main/页面定制.css) 复制到 `页面定制CSS代码` 代码框内（禁用模板默认css不能打勾✓）
 
 6. 将[页首.html](https://github.com/ranxi169/cnblogs-beautify/blob/main/页首.html) 复制到 `页首Html代码` 代码框内
 
@@ -58,6 +58,6 @@
 
 ③另外js运行需要借用一个库函数[nprogress.js](https://github.com/ranxi169/cnblogs-beautify/blob/main/nprogress.js)，需要提前上传到博客园-文件[博客后台 - 博客园 (cnblogs.com)](https://i.cnblogs.com/files)
 
-![](https://github.com/ranxi169/cnblogs-beautify/blob/main/picture/files.png)
+![image](https://github.com/ranxi169/cnblogs-beautify/blob/main/picture/files.png)
 
-![](https://github.com/ranxi169/cnblogs-beautify/blob/main/picture/nprogress_file.png)
+![image](https://github.com/ranxi169/cnblogs-beautify/blob/main/picture/nprogress_file.png)
